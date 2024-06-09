@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "all": "dunwall:block/outsider_block"
+  }
+}

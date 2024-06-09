@@ -1,0 +1,10 @@
+{
+  "item.dunwall.coin": "Монета",
+  "item.dunwall.sword": "Меч",
+  "item.dunwall.elixir": "Эликсир Соколова",
+  "item.dunwall.vorvan": "Кусок ворвани",
+
+  "block.dunwall.outsider_block": "Блок Чужого",
+  "block.dunwall.money_block": "Блок монет",
+  "block.dunwall.vorvan_block": "Ворвань"
+}
